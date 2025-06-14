@@ -1,3 +1,8 @@
+// Mike Pullen, MD
+//6-14-2025
+// Remix of below with maths from
+// https://www.youtube.com/watch?v=feA4ZfnTrSc&list=PLMQnPXcM0bhVDZb2z9h8w-6FAX3x_u5Yp&index=3
+
 //Kevin Toppenberg, MD
 //4/5/18
 //This is a remix of Geneva Mechanism by Jasper_Pues: 
